@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(78,78,87);
+    color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 ;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color:rgb(117, 117, 125);
+    padding: 20px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+#Countdown{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+#Countdown div {
+    padding: 20px;
+    background: #dad7d7;;
+    border-radius: 5px;
+}

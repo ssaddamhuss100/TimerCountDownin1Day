@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(78,78,87);
+    color:azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 ;
+    /* height: 100vh; */
+}
